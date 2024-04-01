@@ -38,7 +38,9 @@ We use this categorical data encoding technique when the features are nominal(do
 # CODING AND OUTPUT:
        DEVELOPED BY: SRI SAI PRIYA.S
        REG NUMBER: 212222240103
-  
+
+Feature Encoding:
+
 ![317971776-f350e699-dfca-4460-b0e4-f2f76c288249](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/2e4d7564-0d70-4eb6-857a-ce45cd16e8f2)
 
 ![317971847-62ebb5fc-f673-47e6-996f-3aaecdf4ab9b](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/7554e28e-d98b-4ea3-8104-ee18a8fb60cb)
@@ -71,7 +73,11 @@ We use this categorical data encoding technique when the features are nominal(do
 
 ![317972496-3545cf7e-b84f-41f5-bc87-21efdacba587](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/878558d5-b027-4964-b105-cb5e2f46d488)
 
+![317972541-a10c5431-f819-46d5-b94a-687552b2c093](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/f1b87b63-91aa-493a-9add-bbd637ad0192)
 
+![317972593-69ef2b89-5ec9-4f15-a16b-9d73caa3c23a](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/694b852e-efbc-4660-9b16-10296d4a681a)
+
+![317972643-66dcdafc-4965-4022-af89-0b1c6c20d161](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/ddb80f72-966d-479f-a4d1-36e660f6339c)
 
 
 # RESULT:
