@@ -123,7 +123,9 @@ Feature Transformation:
 
 ![317974721-4bf7c9d2-9631-4d27-b249-0b77cc6a23eb](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/791b9cc5-82ab-40d1-8419-4974bf9d8118)
 
-![317974721-4bf7c9d2-9631-4d27-b249-0b77cc6a23eb](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/fc71c29a-4802-47c1-9aab-f988a02a4f11)
+![317974773-03bcfd48-37b5-44c0-ae3b-ce24d820425e](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/74d63aa7-72c3-4be0-8bf1-9f8df04b64db)
+
+![317974821-5dfbf6ec-ab3b-4b7c-a0ca-81dde43770cc](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/23b7268f-3a65-466e-a66b-863a8222bfff)
 
 # RESULT:
        # INCLUDE YOUR RESULT HERE
