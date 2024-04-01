@@ -47,6 +47,32 @@ We use this categorical data encoding technique when the features are nominal(do
 
 ![317971923-272b955d-83b7-4d60-bb05-630c497922c9](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/e15ff6b7-8a94-4e5f-a2f1-4830ae2d7888)
 
+![317971956-8590132e-a6c4-4e05-b6a5-c17364581905](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/65f52781-4f94-499b-85f5-886c3aa643d5)
+
+![317971984-be6ddf38-2060-451b-ac7a-a0e9289ea98c](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/5f7217ec-905d-4fdf-ab82-12d38d2b1eaa)
+
+![317972014-3f1c081f-7243-49a7-9eed-004e15924c37](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/97efa747-9039-4e63-9ca7-11f39d821d89)
+
+![317972048-601148b8-dbc0-41a3-8907-49bf0ebe75b6](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/43b4b4e3-f12c-4083-b1d7-9e8ba2a748c3)
+
+![317972097-67d0e7a2-14a9-4c97-97ee-c18d8ad68bed](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/9e70224c-b1ad-4ee1-add1-54fc95405889)
+
+![317972137-4f78dee0-cb87-4aa5-afd6-3fbb9263dacd](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/07081789-022e-482b-9487-881e47f5c13a)
+
+![317972163-301ce2f4-0ee3-4baa-b8f1-17f420c82fbf](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/6049db0b-d7bd-4503-8f6c-304ce2511ae1)
+
+![317972319-4095ff03-0043-4a92-8175-7f1b2eadff79](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/a914ef01-be7e-4ef1-8a48-96b1b0aa1987)
+
+![317972380-7ada8c70-ae87-482d-83d6-d0a6fe47ba45](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/8c19eaaa-f447-4a44-a4d2-487e4e7bc5ee)
+
+![317972416-244d631f-5183-442e-bc91-9b7d80565989](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/0b3b3ba2-1f87-410a-a80e-fc9e28b032bf)
+
+![317972462-479ff5c8-3685-48f7-af23-50ff455a837e](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/99950cfd-463e-496d-aea5-aadebed7bbe6)
+
+![317972496-3545cf7e-b84f-41f5-bc87-21efdacba587](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/878558d5-b027-4964-b105-cb5e2f46d488)
+
+
+
 
 # RESULT:
        # INCLUDE YOUR RESULT HERE
