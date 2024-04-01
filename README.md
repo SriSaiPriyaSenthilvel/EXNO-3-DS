@@ -95,6 +95,10 @@ Feature Transformation:
 
 ![317973684-8895450a-34b0-47d9-bd0f-23e537614390](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/5d8b7064-3e72-4529-a568-c28733e8ffcf)
 
+![317973736-a637b9a6-d095-4950-be07-cf3f465abad4](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/67d21b10-e5e8-48e3-a91d-9d1ee97021df)
+
+![317973777-355ceb9b-01d9-47e4-8f35-f7e7074bc6fc](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/4d809d7a-ac7f-4f6f-935f-8bedee94229c)
+
 
 # RESULT:
        # INCLUDE YOUR RESULT HERE
