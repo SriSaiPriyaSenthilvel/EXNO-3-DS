@@ -83,6 +83,10 @@ Feature Encoding:
 
 ![317972721-4f618f45-313a-4e8e-bf1b-89c73181c610](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/0990539a-4617-4c5a-9566-8755aa664bd3)
 
+![317972787-cc1d9cec-bb71-48d0-8926-ae939c694bb5](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/7c268e26-0b86-4ae0-9ad2-c2ae0fff1aba)
+
+![317973503-ac4e1252-d095-48f2-8428-0da130a5d4f6](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/5e38921e-ab58-42c1-bf8a-b8f3df0e1dec)
+
 
 # RESULT:
        # INCLUDE YOUR RESULT HERE
