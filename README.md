@@ -113,6 +113,17 @@ Feature Transformation:
 
 ![317974070-a878623c-7e24-4f3c-86f6-90bfb5a567d0](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/d76000d8-1c74-469e-a3e7-f56b70452ed9)
 
+![317974095-6649c302-d828-4d82-8660-e37ad077d588](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/6b67ec18-77ee-4138-b830-ec5282a26d36)
+
+![317974121-e05650eb-3df3-432c-9ee0-dcadbbaa0ae1](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/982f8a37-59d2-435e-bfec-8add5ef3137a)
+
+![317974611-07683d23-b0ba-4969-9876-07d9b8e21094](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/adc4b8cd-c58a-46cb-b373-a682d30818c1)
+
+![317974667-3a68d18f-ec13-4d99-893a-6890e41b1c8d](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/85547dd2-314a-428b-bdf0-f6c76307b8de)
+
+![317974721-4bf7c9d2-9631-4d27-b249-0b77cc6a23eb](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/791b9cc5-82ab-40d1-8419-4974bf9d8118)
+
+![317974721-4bf7c9d2-9631-4d27-b249-0b77cc6a23eb](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/fc71c29a-4802-47c1-9aab-f988a02a4f11)
 
 # RESULT:
        # INCLUDE YOUR RESULT HERE
