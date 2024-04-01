@@ -39,7 +39,7 @@ We use this categorical data encoding technique when the features are nominal(do
        DEVELOPED BY: SRI SAI PRIYA.S
        REG NUMBER: 212222240103
 
-Feature Encoding:
+# Feature Encoding:
 
 ![317971776-f350e699-dfca-4460-b0e4-f2f76c288249](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/2e4d7564-0d70-4eb6-857a-ce45cd16e8f2)
 
@@ -89,7 +89,7 @@ Feature Encoding:
 
 ![317972995-eb91c73b-3194-4a6c-b5f4-a86df2e92bab](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/93216dfd-08ee-43db-bb2b-f3cbea880694)
 
-Feature Transformation:
+# Feature Transformation:
 
 ![317973648-2cfc5a6d-71de-4cb1-867b-5815529e7ae9](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/c3848b53-4294-445e-adb6-710615f451bf)
 
@@ -127,7 +127,29 @@ Feature Transformation:
 
 ![317974821-5dfbf6ec-ab3b-4b7c-a0ca-81dde43770cc](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/23b7268f-3a65-466e-a66b-863a8222bfff)
 
+![317974867-25cb006c-e550-44f0-89be-cbece2532648](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/cc6f9d48-c2f7-4ad4-bf43-da0c29603e5b)
+
+![317974903-b827f143-c47e-4f03-b5ec-cc5421c44453](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/fb8e0c04-c93b-4494-8ff2-3ae8ce28850c)
+
+![317974940-3d8bc9bb-4ff6-4152-8fc1-a3b43b2c8996](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/c749e16a-edce-4c51-bfdc-135962d2ae65)
+
+![317974986-bb6d3fe4-11ba-488e-8d86-b8b07bd8beeb](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/e81aede4-ca28-47f8-a052-bb6b464edb23)
+
+![317974986-bb6d3fe4-11ba-488e-8d86-b8b07bd8beeb](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/54900dc2-a15d-4257-83ff-caef006b4a61)
+
+![317975020-7d232f8b-055b-490a-9e91-8ae38674c889](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/98625e28-830c-488e-81a5-cea99f39553c)
+
+![317975020-7d232f8b-055b-490a-9e91-8ae38674c889](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/23e88679-ae7a-4f2a-a855-00677619a536)
+
+![317975054-03323352-28d1-43c7-b8c0-11d538604776](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/f11a8749-5b23-40e9-b06c-215eb34fc3e8)
+
+![317975092-225c5897-21f4-41d7-be2a-e0e66740bbd6](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/ebd0ed39-92e2-4cdc-8698-d7f40db62869)
+
+![317975229-2972df40-670b-4018-906c-5edd4c1873fc](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/358462f9-8572-4699-8c86-cffff4907076)
+
+![317975229-2972df40-670b-4018-906c-5edd4c1873fc](https://github.com/SriSaiPriyaSenthilvel/EXNO-3-DS/assets/119475702/6fd970d1-d531-4c61-b9b5-657da0d60a9a)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the feature encoding and feature extraction for the given dataset is performed successfully.
 
        
